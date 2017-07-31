@@ -1,0 +1,21 @@
+{
+  "name": "seth-network/packager",
+  "description": "Seth's Kohana Extensions for Kohana 3.3+ and Koseven",
+  "keywords": [
+    "kohana",
+    "kohana-php7",
+    "koseven",
+    "satis",
+    "gemfury",
+    "composer",
+    "packagist"
+  ],
+  "homepage": "https://seth-network.de/",
+  "require": {
+	"koseven/koseven": "3.3.*"
+  },
+  "suggest": {
+    "composer/satis": "Statis Composer repository",
+    "seth-network/ske": "Kohana Extensions"
+  }
+}
